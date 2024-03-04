@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2DF782&random=false&width=435&lines=Android+Developer)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kyungwon%20Seo&textBg=false&fontAlign=50" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=53F785&random=false&width=435&height=80&lines=Android+Developer)](https://git.io/typing-svg)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoojugoing%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
