@@ -39,9 +39,6 @@
 	<h3>About Me</h3>
 </div>
 <div align>
-	<a href="https://yermi.co.kr">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
 	<a href="https://woojugoing.tistory.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
@@ -53,7 +50,4 @@
 	</a>
 	<br>
 </div>
-<br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woojugoing&layout=compact)
 
