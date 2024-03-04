@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kyungwon%20Seo&textBg=false&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Kyungwon%20Seo&textBg=false&fontAlign=50" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=53F785&random=false&width=435&height=80&lines=Android+Developer)](https://git.io/typing-svg)
 
